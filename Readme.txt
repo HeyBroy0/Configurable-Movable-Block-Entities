@@ -209,13 +209,7 @@ Use Mojang's official 26.3 mappings, not older Yarn or legacy method names.
 | Block-entity saving  | `ValueOutput`                                      |
 | Block-entity loading | `ValueInput`                                       |
 
-The 26.3 source and API references confirm these names and their current roles.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://mc-packet-reference.netlify.app\&sz=32)
-
-MC 26.x+3
-
-
+The 26.3 source and API references confirm these names and their current roles.
 
 ## Overall design principle
 
